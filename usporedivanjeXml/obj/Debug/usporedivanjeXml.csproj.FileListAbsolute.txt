@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\usporedivanjeXml\bin\Debug\usporedivanjeXml.exe.config
+C:\Users\ucenik\source\repos\usporedivanjeXml\bin\Debug\usporedivanjeXml.exe
+C:\Users\ucenik\source\repos\usporedivanjeXml\bin\Debug\usporedivanjeXml.pdb
+C:\Users\ucenik\source\repos\usporedivanjeXml\obj\Debug\usporedivanjeXml.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\usporedivanjeXml\obj\Debug\usporedivanjeXml.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\usporedivanjeXml\obj\Debug\usporedivanjeXml.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\usporedivanjeXml\obj\Debug\usporedivanjeXml.exe
+C:\Users\ucenik\source\repos\usporedivanjeXml\obj\Debug\usporedivanjeXml.pdb
